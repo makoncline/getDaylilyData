@@ -1,5 +1,6 @@
 # getDaylilyData
 Takes arguments:
 - csv of user data. name, price, note
-- csv of ahs data 
+- csv of ahs data
+
 Returns users list with ahs data added
