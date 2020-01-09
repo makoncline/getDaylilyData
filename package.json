@@ -1,0 +1,27 @@
+{
+  "name": "daylilyData",
+  "version": "1.0.0",
+  "description": "Takes arguments   csv of user data. name, price, note   csv of ahs data  Returns users list with ahs data added",
+  "main": "slugify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makoncline/getDaylilyData.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makoncline/getDaylilyData/issues"
+  },
+  "homepage": "https://github.com/makoncline/getDaylilyData#readme",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^4.8.3",
+    "j2c": "^0.11.3",
+    "json2csv": "^4.5.4",
+    "sqlite3": "^4.1.1"
+  }
+}
